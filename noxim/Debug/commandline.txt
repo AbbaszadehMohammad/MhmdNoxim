@@ -1,0 +1,3 @@
+dynoc_2012.exe  -dimx 2 -dimy 2 -buffer 40000 -routing xy -sel random -pir 1 -traffic random  -detailed -warmup 1000 -sim 10000
+
+dynoc_2012.exe  -dimx 2 -dimy 2 -buffer 4 -routing xy -sel random -pir 0.06 -traffic random  -detailed -warmup 1000 -sim 100000 -size 3 3

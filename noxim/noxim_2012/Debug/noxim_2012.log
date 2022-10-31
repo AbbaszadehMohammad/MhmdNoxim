@@ -1,0 +1,4 @@
+﻿  TProcessingElement.cpp
+d:\myproject\noxim_vis\noxim\noxim_2012\tprocessingelement.cpp(28): warning C4805: '==': unsafe mix of type 'const sc_core::sc_in<bool>::data_type' and type 'int' in operation
+  noxim_2012.vcxproj -> D:\Myproject\Noxim_vis\noxim\noxim_2012\Debug\noxim_2012.exe
+  noxim_2012.vcxproj -> D:\Myproject\Noxim_vis\noxim\noxim_2012\Debug\noxim_2012.pdb (Full PDB)
